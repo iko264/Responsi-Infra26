@@ -78,5 +78,14 @@ terdapat `3x diawal dan akhir dan ada nginx nya setelah itu
 ### solusi 
 hapus `3x dan nginx
 
+---
+## permasalahan 4
+### gejala
+web-web dan web-wo di web2 dan 3
+### penyebab
+kesalahan ketik
+### solusi 
+ganti menjadi web-2 dan web-3
+
 
 
